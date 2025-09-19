@@ -2,52 +2,68 @@ import { BlogCard } from "./BlogCard";
 
 const blogPosts = [
   {
-    title: "Building Modern Web Applications with React and TypeScript",
-    description: "Dive deep into the world of modern web development. Learn how to build scalable, maintainable applications using React, TypeScript, and the latest development tools and practices.",
-    date: "Sep 15, 2025",
-    readTime: "8 min read",
-    category: "Development",
+    title: "Membangun Aplikasi Web Modern dengan React dan TypeScript",
+    description: "Mendalami dunia pengembangan web modern. Pelajari cara membangun aplikasi yang scalable dan maintainable menggunakan React, TypeScript, dan tools terbaru.",
+    date: "15 Sep 2024",
+    readTime: "8 menit baca",
+    category: "Teknologi",
     image: "/placeholder.svg",
     featured: true
   },
   {
-    title: "The Future of Web Design",
-    description: "Exploring emerging trends in web design and user experience. From AI-powered interfaces to immersive experiences.",
-    date: "Sep 12, 2025",
-    readTime: "5 min read",
+    title: "Tren Terbaru dalam Pengembangan Web",
+    description: "Eksplorasi tren emerging dalam desain web dan user experience. Dari interface berbasis AI hingga pengalaman immersive.",
+    date: "12 Sep 2024", 
+    readTime: "5 menit baca",
     category: "Design",
     image: "/placeholder.svg"
   },
   {
-    title: "Optimizing Performance in React Applications",
-    description: "Learn practical techniques to improve your React app's performance, from code splitting to efficient state management.",
-    date: "Sep 10, 2025",
-    readTime: "12 min read",
+    title: "Tips Optimasi Performance Aplikasi React",
+    description: "Pelajari teknik praktis untuk meningkatkan performa aplikasi React Anda, dari code splitting hingga state management yang efisien.",
+    date: "10 Sep 2024",
+    readTime: "12 menit baca",
     category: "Performance",
     image: "/placeholder.svg"
   },
   {
-    title: "Getting Started with Next.js 14",
-    description: "A comprehensive guide to building full-stack applications with the latest version of Next.js and its new features.",
-    date: "Sep 8, 2025",
-    readTime: "10 min read",
+    title: "Panduan Lengkap Next.js 14 untuk Pemula",
+    description: "Panduan komprehensif untuk membangun aplikasi full-stack dengan versi terbaru Next.js dan fitur-fitur barunya.",
+    date: "8 Sep 2024",
+    readTime: "10 menit baca",
     category: "Tutorial",
     image: "/placeholder.svg"
   },
   {
-    title: "CSS Grid vs Flexbox: When to Use What",
-    description: "Understanding the differences between CSS Grid and Flexbox, and knowing when to use each layout method.",
-    date: "Sep 5, 2025",
-    readTime: "6 min read",
+    title: "CSS Grid vs Flexbox: Kapan Menggunakan Apa",
+    description: "Memahami perbedaan antara CSS Grid dan Flexbox, serta mengetahui kapan harus menggunakan masing-masing metode layout.",
+    date: "5 Sep 2024",
+    readTime: "6 menit baca",
     category: "CSS",
     image: "/placeholder.svg"
   },
   {
-    title: "Building Accessible Web Applications",
-    description: "Essential practices for creating inclusive web experiences that work for everyone, regardless of their abilities.",
-    date: "Sep 3, 2025",
-    readTime: "9 min read",
+    title: "Membangun Aplikasi Web yang Accessible",
+    description: "Praktik essential untuk menciptakan pengalaman web yang inklusif untuk semua orang, terlepas dari kemampuan mereka.",
+    date: "3 Sep 2024",
+    readTime: "9 menit baca",
     category: "Accessibility",
+    image: "/placeholder.svg"
+  },
+  {
+    title: "Panduan Migrasi WordPress ke React",
+    description: "Langkah demi langkah proses migrasi dari WordPress ke aplikasi React modern dengan mempertahankan SEO dan konten.",
+    date: "1 Sep 2024",
+    readTime: "15 menit baca",
+    category: "Migrasi",
+    image: "/placeholder.svg"
+  },
+  {
+    title: "Keamanan Web: Best Practices 2024",
+    description: "Panduan komprehensif tentang praktik keamanan web terbaru untuk melindungi aplikasi dan data pengguna.",
+    date: "28 Ags 2024",
+    readTime: "11 menit baca",
+    category: "Keamanan",
     image: "/placeholder.svg"
   }
 ];
